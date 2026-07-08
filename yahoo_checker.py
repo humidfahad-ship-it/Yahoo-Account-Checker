@@ -168,4 +168,4 @@ class YahooChecker():
 
 if __name__ == "__main__":
     # main program instance
-    checker = YahooChecker()
+        checker = YahooChecker(
